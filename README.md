@@ -3,7 +3,7 @@
 - 🏢 I'm a member of WIZZ studio
 - ⚓ My major is cyber security
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning C++ / SQL/ SAS 
+- 🌱 I’m currently learning C++ / SQL/ SAS
 - 🚀 Visit my personal website [YuNet](http://yushion.cc)
 - 📧 Contact me by email yushionliu@gmail.com
 <!---
